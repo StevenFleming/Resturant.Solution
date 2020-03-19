@@ -1,0 +1,16 @@
+
+@{
+  Layout = "_Layout";
+}
+
+@model Food.Models.Cuisine
+
+<h2>Add a new Cusisine</h2>
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(model => model.Name)
+    @Html.TextBoxFor(model => model.Name)<br>
+
+    <input class="button" type="submit" value="Add new Cusisine" />
+}
+<p>@Html.ActionLink("Show all Collections", "Index")</p>

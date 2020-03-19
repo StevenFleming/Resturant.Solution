@@ -1,0 +1,5 @@
+/Users/apple/Desktop/Resturant.Solution/Food/obj/Debug/netcoreapp2.2/Food.csprojAssemblyReference.cache
+/Users/apple/Desktop/Resturant.Solution/Food/obj/Debug/netcoreapp2.2/Food.RazorAssemblyInfo.cache
+/Users/apple/Desktop/Resturant.Solution/Food/obj/Debug/netcoreapp2.2/Food.RazorAssemblyInfo.cs
+/Users/apple/Desktop/Resturant.Solution/Food/obj/Debug/netcoreapp2.2/Food.AssemblyInfoInputs.cache
+/Users/apple/Desktop/Resturant.Solution/Food/obj/Debug/netcoreapp2.2/Food.AssemblyInfo.cs

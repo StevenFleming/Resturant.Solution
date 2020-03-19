@@ -1,0 +1,12 @@
+@{
+    Layout = "_Layout";
+}
+
+@model Food.Models.Resturant
+<h2>Resturant Details</h2>
+<hr />
+<h3>@Html.DisplayNameFor(model => model.Name): @Html.DisplayFor(model => model.Name)</h3>
+@* <p>@Html.DisplayNameFor(model => model.Age): @Html.DisplayFor(model => model.Age)</p>
+<p>@Html.DisplayNameFor(model => model.Description): @Html.DisplayFor(model => model.Description)</p> *@
+<p>@Html.ActionLink("Back to list", "Index")</p>
+<p>@Html.ActionLink("Delete Resturant", "Delete", new { id = Model.Id })</p>
